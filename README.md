@@ -1,0 +1,2 @@
+# meals_app
+Basic meals app, with diffrent categories of meals such as Italian, Fast food and many more. Within each category, will will find dishes that, obviously, macth the category they belong to. If you find one of those dishes compelling, you can see the ingredents and the steps required to make that meal. You can also mark a meal as a Favorite by clicking the star button. Finally, you can filter out the meals that are not vegan, not veggie, not lactose-free and with gluten, so you only see what you filter.
